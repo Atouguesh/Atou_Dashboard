@@ -1,0 +1,32 @@
+app-navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+app-sidebar{
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+    top: 15vh;
+   
+    
+}
+.Atou{
+    margin-top: 105px;
+    height: 90vh;
+
+}
+app-footer{
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+
+
+}
